@@ -1,3 +1,3 @@
 # desafio-poo-dio
 
-This is a Chelenger of Dio about POO.
+This is a Challenger of Dio about POO.
