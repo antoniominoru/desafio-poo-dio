@@ -1,3 +1,3 @@
 # desafio-poo-dio
 
-This is a Challenger of Dio about POO.
+This is a Challenge of Dio about POO.
