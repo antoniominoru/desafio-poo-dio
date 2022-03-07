@@ -5,8 +5,8 @@ This is a Challenge of Dio about POO.
 ##Problem:
 Create a system of bootcamp.
 
-1. Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS
-2. Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las
-3. As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS
-4. Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO
-5. E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS.
+1. Let's ABSTRACT the Bootcamp DOMAIN and MODEL its ATTRIBUTES AND METHODS
+2. We will create the CLASSES: Bootcamp, Courses, Mentorships and Devs and we will list them
+3. The Course, Mentorship and Devs CLASSES will also be MODELED, that is, we will create their ATTRIBUTES AND METHODS
+4. To make the code more readable and easier to maintain, we will use some of the tools that the OBJECT ORIENTATION PARADIGM (OOP) offers us: ABSTRACTION, ENCAPSULATION, INHERITANCE AND POLYMORPHISM
+5. And to represent CLASSES that were created and related, we will transform them into OBJECTS.
